@@ -1,0 +1,6 @@
+name: "hello"
+version: "0.1.2"
+usage: "Say hello"
+description: |-
+     plugin try with bash file
+command: "$HELM_PLUGIN_DIR/hello.sh"
